@@ -1,1 +1,1 @@
-# GA
+# Genetic Algorithm
